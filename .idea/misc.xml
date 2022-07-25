@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android Studio/App Android Studio/DiceSmartResto/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Studio/App Android Studio/DiceSmartResto/app/src/main/res/layout/activity_pesanan_riwayat.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Studio/App Android Studio/DiceSmartResto/app/src/main/res/layout/fragment_beranda.xml" value="0.20416666666666666" />
         <entry key="..\:/AndroidStudioHasil/Android Java/Normal/DiceSmartResto/app/src/main/res/layout/activity_main.xml" value="0.209375" />
         <entry key="..\:/AndroidStudioHasil/Android Java/Normal/DiceSmartResto/app/src/main/res/layout/fragment_saldo.xml" value="0.209375" />
         <entry key="..\:/AndroidStudioHasil/Android Java/Normal/DiceSmartResto/app/src/main/res/menu/bottom_nav_menu.xml" value="0.209375" />
