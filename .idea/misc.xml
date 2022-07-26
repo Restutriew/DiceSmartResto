@@ -3,10 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android Studio/App Android Studio/DiceSmartResto/app/src/main/res/layout/activity_isi_saldo.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Studio/App Android Studio/DiceSmartResto/app/src/main/res/layout/activity_konfirmasi_isisaldo.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Studio/App Android Studio/DiceSmartResto/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
         <entry key="..\:/Android Studio/App Android Studio/DiceSmartResto/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
-        <entry key="..\:/Android Studio/App Android Studio/DiceSmartResto/app/src/main/res/layout/activity_pesanan_riwayat.xml" value="0.20416666666666666" />
-        <entry key="..\:/Android Studio/App Android Studio/DiceSmartResto/app/src/main/res/layout/fragment_beranda.xml" value="0.20416666666666666" />
-        <entry key="..\:/Android Studio/App Android Studio/DiceSmartResto/app/src/main/res/layout/fragment_pesanan.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Studio/App Android Studio/DiceSmartResto/app/src/main/res/layout/activity_metode_pembayaran.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Studio/App Android Studio/DiceSmartResto/app/src/main/res/layout/activity_pembayaran.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Studio/App Android Studio/DiceSmartResto/app/src/main/res/layout/activity_pembayaran_selesai.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Studio/App Android Studio/DiceSmartResto/app/src/main/res/layout/activity_pesanan_riwayat.xml" value="0.33" />
+        <entry key="..\:/Android Studio/App Android Studio/DiceSmartResto/app/src/main/res/layout/activity_pilih_makanan.xml" value="0.33" />
+        <entry key="..\:/Android Studio/App Android Studio/DiceSmartResto/app/src/main/res/layout/fragment_beranda.xml" value="0.33" />
+        <entry key="..\:/Android Studio/App Android Studio/DiceSmartResto/app/src/main/res/layout/fragment_pesanan.xml" value="0.25" />
+        <entry key="..\:/Android Studio/App Android Studio/DiceSmartResto/app/src/main/res/layout/fragment_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Studio/App Android Studio/DiceSmartResto/app/src/main/res/layout/fragment_saldo.xml" value="0.33" />
+        <entry key="..\:/Android Studio/App Android Studio/DiceSmartResto/app/src/main/res/layout/fragment_scan.xml" value="0.20416666666666666" />
         <entry key="..\:/AndroidStudioHasil/Android Java/Normal/DiceSmartResto/app/src/main/res/layout/activity_main.xml" value="0.209375" />
         <entry key="..\:/AndroidStudioHasil/Android Java/Normal/DiceSmartResto/app/src/main/res/layout/fragment_saldo.xml" value="0.209375" />
         <entry key="..\:/AndroidStudioHasil/Android Java/Normal/DiceSmartResto/app/src/main/res/menu/bottom_nav_menu.xml" value="0.209375" />
